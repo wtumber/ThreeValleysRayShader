@@ -1,0 +1,2 @@
+## RayShader
+This repo contains code to render the locations of the Three Valleys resorts in R using the RayShader package. This code was intended for 1-time use to generate supplementary images for Solent University Module COM617.
